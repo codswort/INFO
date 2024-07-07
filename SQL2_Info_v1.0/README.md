@@ -1,4 +1,4 @@
-# Info21 v1.0
+# Info v1.0
 
 Data analysis and statistics for School.
 
@@ -18,7 +18,7 @@ Data analysis and statistics for School.
 
 ## Chapter I
 
-![Info21 v1.0](misc/images/SQL2_Info21_v1.0.jpg)
+![Info v1.0](misc/images/SQL2_Info_v1.0.jpg)
 
 Chuck decided to work from home. Next to him on the table was a warm, freshly brewed cup of coffee with a thin stream of steam rising over it. Both monitors had the OS boot screen on and a few moments later the welcome screen popped up. Chuck lazily reached for his mouse. He clicked it and got to the directory with the work files. Although he works in the finance department, today he had a completely different task: to help implement another idea that came from above, since he is one of those few employees who are somehow familiar with SQL. \
 Structured Query Language, or as its creators once claimed - a language in which "every housewife would be able to write a database query". But the housewives Chuck knew from the office couldn't cope with it, so he was usually the one who had the honor of handling database-related tasks. His past experience as a programmer helped. After all, he had spent four years at the university for a reason.
