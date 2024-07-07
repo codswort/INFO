@@ -51,7 +51,7 @@ BEGIN
                    QUOTE_LITERAL($2), 'CSV');
 END;
 $$ LANGUAGE PLPGSQL;
--- CALL fnc_import('/users/quayleco/projects/sql/sql2_info21_v1.0-1/src/csv/');
+-- CALL fnc_import('/users/quayleco/projects/sql/sql2_info_v1.0-1/src/csv/');
 
 
 CREATE OR REPLACE FUNCTION fnc_trg_accrual_insert()
