@@ -1,6 +1,6 @@
 # Info21 v1.0
 
-Data analysis and statistics for School 21.
+Data analysis and statistics for School.
 
 
 ## Contents
@@ -32,7 +32,7 @@ After sipping his coffee first, he finally got to the paper. \
 ## Introduction
 
 In this project, you will have to put your knowledge of SQL into practice. 
-You will need to create a database with data about School 21 and write procedures and functions to retrieve information, as well as procedures and triggers to change it.
+You will need to create a database with data about School and write procedures and functions to retrieve information, as well as procedures and triggers to change it.
 
 
 ## Chapter II
@@ -192,7 +192,7 @@ This new data needs to be added to this script as well.
 
 If *csv* files were used to add data to the tables, they must also be uploaded to the GIT repository.
 
-*All tasks must be named in the format of names for School 21, for example A5_s21_memory. \
+*All tasks must be named in the format of names for School, for example A5_s21_memory. \
 In the future, Whether a task belongs to a block will be determined by the name of the block in the task name, e.g. "CPP3_SmartCalc_v2.0" belongs to the CPP block. \*
 
 ## Part 2. Changing data
