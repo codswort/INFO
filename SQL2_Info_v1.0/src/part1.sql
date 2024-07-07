@@ -1,8 +1,8 @@
 -- Cоздание базы данных
-DROP DATABASE IF EXISTS school21 WITH (FORCE);
-CREATE DATABASE school21;
+DROP DATABASE IF EXISTS school WITH (FORCE);
+CREATE DATABASE school;
 
--- Запускается после переключения на базу school21
+-- Запускается после переключения на базу school
 CREATE TYPE CHECK_STATUS AS ENUM ('Start', 'Success', 'Failure');
 
 CREATE TABLE IF NOT EXISTS peers
@@ -132,7 +132,7 @@ $$ LANGUAGE PLPGSQL;
 
 
 -- вызов процедуры импорта
-CALL fnc_import('/users/quayleco/projects/sql/sql2_info21_v1.0-1/src/csv/');
+CALL fnc_import('/users/quayleco/projects/sql/sql2_info_v1.0-1/src/csv/');
 
 -- вызов процедуры экспорта
-CALL fnc_export('/users/quayleco/projects/sql/sql2_info21_v1.0-1/src/csv/');
+CALL fnc_export('/users/quayleco/projects/sql/sql2_info_v1.0-1/src/csv/');
